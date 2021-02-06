@@ -1,0 +1,1 @@
+Git Checkout: This command is used to switch from one branch to another branch.
