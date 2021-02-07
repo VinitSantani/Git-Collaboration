@@ -20,3 +20,5 @@ Git Remove <name>: Disconnects the remote from the local repository. Note that t
 Git Rename <old-name> <new-name>: Renames the remote connection.
 
 Git Status: The git status command displays the state of the working directory and the staging area. It lets you see which changes have been staged, which haven't, and which files aren't being tracked by Git. Status output does not show you any information regarding the committed project history.
+
+Git Master Branch: The default branch name in Git is master . As you start making commits, you're given a master branch that points to the last commit you made. Every time you commit, the master branch pointer moves forward automatically. The “master” branch in Git is not a special branch.
