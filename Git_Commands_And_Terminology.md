@@ -6,3 +6,5 @@ Git remove <name>: Disconnects the remote from the local repository. Note that t
 Git rename <old-name> <new-name>: Renames the remote connection.
 Git Status: The git status command displays the state of the working directory, and the staging area
 Git Master Branch: The default branch name in Git is master . As you start making commits, you're given a master branch that points to the last commit you made.
+
+Git Checkout: The git checkout command lets you navigate between the branches created by git branch . Checking out a branch updates the files in the working directory to match the version stored in that branch, and it tells Git to record all new commits on that branch.
