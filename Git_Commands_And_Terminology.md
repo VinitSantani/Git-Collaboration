@@ -18,3 +18,5 @@ Git Add <shortname> <url>: Creates a new connection to a remote repository. The 
 Git Remove <name>: Disconnects the remote from the local repository. Note that this will have no effect on the actual remote repository (i.e. the repository itself is not removed / deleted / etc.).
 
 Git Rename <old-name> <new-name>: Renames the remote connection.
+
+Git Status: The git status command displays the state of the working directory and the staging area. It lets you see which changes have been staged, which haven't, and which files aren't being tracked by Git. Status output does not show you any information regarding the committed project history.
