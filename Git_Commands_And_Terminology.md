@@ -5,3 +5,4 @@ Git add <shortname> <url>: Creates a new connection to a remote repository. The 
 Git remove <name>: Disconnects the remote from the local repository. Note that this will have no effect on the actual remote repository (i.e. the repository itself is not removed / deleted / etc.).
 Git rename <old-name> <new-name>: Renames the remote connection.
 Git Status: The git status command displays the state of the working directory, and the staging area
+Git Master Branch: The default branch name in Git is master . As you start making commits, you're given a master branch that points to the last commit you made.
