@@ -1,5 +1,7 @@
 # Git Terminology and Commands
 1. **Repository**: This is a storage area where your projects can live. It can store code, text, images, and anything else that your project may need. This is also sometimes shorthanded as “repo” and can be stored either in an online platform like git hub or locally to your pc.
+2. **Clone**: Essentially downloading a local copy of a repo that is hosted somewhere else. For example, cloning a github repo to your local PC
+
 
 Git Checkout: 
 The git checkout command lets you navigate between the branches created by git branch . Checking out a branch updates the files in the working directory to match the version stored in that branch, and it tells Git to record all new commits on that branch.
