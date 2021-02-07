@@ -7,7 +7,8 @@
 
 ## Web Articles/Documentation
 * [Overview of Changelogs](https://www.freecodecamp.org/news/z-beginners-guide-to-git-what-is-a-changelog-and-how-to-generate-it/)
-* 
+* [Automated Testing Overview](https://smartbear.com/learn/automated-testing/what-is-automated-testing/)
+* [Continuous Integration Overview](https://www.atlassian.com/continuous-delivery/continuous-integration)
 
 ## Professor Williams's Canvas Materials
 * [Review for MiniProject with some tips](https://www.youtube.com/watch?v=rHEtfj92vso&feature=youtu.be)
