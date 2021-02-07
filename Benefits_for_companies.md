@@ -1,0 +1,2 @@
+# Why are Git, Docker, automated testing, and continuous integrations important?
+These tools will help with collaboration efforts and will eliminate duplicate efforts. They will allow companies to work on multiple features at the same time, without stepping over one another’s toes
